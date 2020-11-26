@@ -14,7 +14,7 @@ Examine if refactoring VBA code yield same result in faster processing time. Wit
 Ability to analyze 3000+ rows of stock market data, compiled into high-level summary returns. 
 
 
-![2017 Stock Analysis](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/VBA_Challenge_2017.png)![2018 Stock Analysis](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/VBA_Challenge_2018.png)
+![2017 Stock Analysis](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/VBA_Challenge_2017.png)  ![2018 Stock Analysis](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/VBA_Challenge_2018.png)
 
 All it took was 0.63 second to compile.
 
