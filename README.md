@@ -30,8 +30,8 @@ Ability to analyze 3000+ rows of stock market data, compiled into high-level sum
 ![2018 Timer](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/Timer%202018%20Refactored%20Code.png)
 
 ## Summary
- - :x: Disadvantage: The process of refactoring code is time consuming and requires series of trials and error experiements. Sometimes it may take days to come up with a better logic and downfall is during the process, one have no idea if the code will EVER work. 
- - :white_check_mark: Advantage: After the success of working code, the coder are able to imrpoved the design of code, apply and implement and address the needs of the user.
+ - :x: Disadvantage: The process of refactoring code is very time consuming and requires series of trials and error experiements. Sometimes it may take days to come up with a better logic and downfall is during the process, one have no idea if the code will EVER work. it's like reinventing the wheels all over again. 
+ - :white_check_mark: Advantage: After the success of working code, the coder are able to furthur improve their skillset, the design of code, apply and implement and address the needs of the user.
  
  - :x: Con:
  - :white_check_mark: Pro:
