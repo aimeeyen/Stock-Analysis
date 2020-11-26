@@ -33,6 +33,6 @@ Ability to analyze 3000+ rows of stock market data, compiled into high-level sum
  - :x: Disadvantage: The process of refactoring code is very time consuming and requires series of trials and error experiements. Sometimes it may take days to come up with a better logic and downfall is during the process, one have no idea if the code will EVER work. it's like reinventing the wheels all over again. 
  - :white_check_mark: Advantage: After the success of working code, the coder are able to furthur improve their skillset, the logic design of code, apply, implement and address the needs of its user.
  
- - :x: Con: For me particularly, it tooked me days of researching, running around in fraustration in trying to get the code to compile. The process is quite excruciating :dizzy_face:. 
- - :white_check_mark: Pro: Again, coding is like fighting the war, you have no idea how it will end, during the process is unbearable, however when you come out winning, the feeling is amazing and a huge relief. It's like finally able to completed all sides of Rubiks cube! Much like the saying "No pain, no gain!" :sweat_smile:
+ - :x: Con: For me particularly, it tooked me days of researching, watching endless Youtube videos, running around in fraustration trying to get the code to compile. The process is quite excruciating :dizzy_face:
+ - :white_check_mark: Pro: Again, coding is like fighting the war, you have no idea how it will end. During the process is unbearable, however when you come out winning, the feeling is amazing and a huge relief. It's like finally able to completed all sides of Rubik's cube! Much like the saying "No pain, no gain!" :sweat_smile:
  
