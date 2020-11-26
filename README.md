@@ -17,5 +17,7 @@ Ability to analyze 3000+ rows of stock market data, compiled into high-level sum
 
 ![2018 Stock Analysis](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/VBA_Challenge_2018.png)
 
-**All it took was 0.60 ~ 0.63 seconds to compile.** ![2017 Timer](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/Timer%202017%20Non-Refactored%20Code.png). ![2018 Timer](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/Timer%202018%20Non-Refactored%20Code.png)
+**All it took was 0.60 ~ 0.63 seconds to compile.** 
+
+![2017 Timer](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/Timer%202017%20Non-Refactored%20Code.png). ![2018 Timer](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/Timer%202018%20Non-Refactored%20Code.png)
 
