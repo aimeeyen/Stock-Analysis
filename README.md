@@ -25,7 +25,7 @@ Ability to analyze 3000+ rows of stock market data, compiled into high-level sum
 ![2017 Timer](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/Timer%202017%20Non-Refactored%20Code.png). ![2018 Timer](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/Timer%202018%20Non-Refactored%20Code.png)
 
 **Refactoring VBA script:**
-:hourglass_flowing_sand: compile data in **
+:hourglass_flowing_sand: compile data in **0.16 ~ 0.17 Seconds!!**
 
 ![2017 Timer](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/Timer%202017%20Refactored%20Code.png)
 ![2018 Timer](https://github.com/aimeeyen/stock-analysis/blob/main/Resource/Timer%202018%20Refactored%20Code.png)
